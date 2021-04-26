@@ -1,2 +1,2 @@
-# Cheating_Detection_in_the_Leader_Follower_Game
+# Cheating Detection in the Leader Follower Game
 AI in Marketing Technology
