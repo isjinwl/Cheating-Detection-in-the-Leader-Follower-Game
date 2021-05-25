@@ -11,7 +11,7 @@
 #### Traditional Machine Learning
 
 ### Related Topics
-+ Fraud Detection
++ Fraud Detection<br/>
 Overall Exploration Route: 
    1. Rule-based methods: IF-THEN, Association rules
    2. learning-based models: SVM-based ensamble strategy, Graph-based, Sequence-based(CNN, RNN)
@@ -32,6 +32,12 @@ Overall Exploration Route:
 ## Feature Engineering
 ----
 ## Behavioral Economics
++ Decision-making Process<br/>
+Overall Exploration Route: 
++ 1959
+****
+   + Herbert Simon
+
 ----
 ## Multi-agent System
 ----
